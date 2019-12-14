@@ -1,0 +1,10 @@
+PERGUNTA=Quais comandos permitem alterar grupo proprietário de arquivos?
+TIPO=MULTI
+
+OPT=A;chopt
+OPT=B;chgrp
+OPT=C;chown
+OPT=D;chmod
+OPT=E;chsh
+
+RESPOSTA=B C

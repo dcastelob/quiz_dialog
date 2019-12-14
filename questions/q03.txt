@@ -1,0 +1,4 @@
+PERGUNTA=Qual o comando exibe atributos especiais do sistema de arquivos (sem opções)?
+TIPO=TEXT
+
+RESPOSTA=lsattr

@@ -1,0 +1,3 @@
+EXAME_TITLE=PROVA 01 - Teste de administração de sistemas Linux.
+
+INTRO=Bem-vindo a prova 01. Para continur, clique em sim. Para marcar as opções use 'Barra de espaço' e em seguida aceitar em cada questão. Existem questões com uma única resposta, múltiplas respostas e questões abertas.

@@ -1,0 +1,10 @@
+PERGUNTA=Quem gravou a canção Oceano?
+TIPO=SINGLE
+
+OPT=A;Djavan
+OPT=B;Roberto Carlos
+OPT=C;Sondoval Gouveia
+OPT=D;Cartola
+OPT=E;Zezé di Camargo
+
+RESPOSTA=A
